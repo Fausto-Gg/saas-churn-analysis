@@ -137,15 +137,6 @@ Explanation: Dataset lacks activity timestamps
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* **SQL** → Data cleaning, cohort analysis, churn metrics
-* **Python (Pandas, Scikit-learn)** → Behavioral analysis & churn modeling
-* **Excel** → Validation and exploratory checks
-* **Power BI** → Interactive dashboard and storytelling
-
----
-
 ## 📈 Dashboard
 
 The Power BI dashboard provides an interactive view of customer churn, allowing dynamic exploration of high-risk segments.
@@ -178,6 +169,15 @@ The Power BI dashboard provides an interactive view of customer churn, allowing 
 * Incentivize long-term contracts
 * Monitor early-stage customers closely
 * Implement churn prediction systems
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **SQL** → Data cleaning, cohort analysis, churn metrics
+* **Python (Pandas, Scikit-learn)** → Behavioral analysis & churn modeling
+* **Excel** → Validation and exploratory checks
+* **Power BI** → Interactive dashboard and storytelling
 
 ---
 
